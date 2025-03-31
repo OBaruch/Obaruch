@@ -1,6 +1,6 @@
 # Hello, I'm OBaruch! 👋
 
-![Banner](https://baruchlopez.com/path/to/your-banner.jpg)
+![Banner](https://via.placeholder.com/1000x200.png?text=Welcome+to+My+Profile)
 
 **OBaruch**  
 *ciudadno del mundo*  
@@ -15,7 +15,7 @@
 ---
 
 ## 💫 About Me
-Hello! I'm **Omar Baruch M. López** (OBaruch on GitHub), a Data and AI Specialist with extensive experience in developing Machine Learning models and automating processes. I have implemented solutions in corporate environments such as Bosch, optimizing data flows and analyzing large volumes of information. I specialize in technologies such as Alteryx, Oracle, SQL, Power BI, Python, TensorFlow, Keras, Scikit-Learn, and HuggingFace, and I am passionate about applying artificial intelligence to transform business and financial processes.
+Hello! I'm **Omar Baruch M. López** (OBaruch on GitHub), a Data and AI Specialist with extensive experience in developing Machine Learning models and automating processes. I have implemented solutions in various corporate environments, optimizing data flows and analyzing large volumes of information. I specialize in technologies such as Alteryx, Oracle, SQL, Power BI, Python, TensorFlow, Keras, Scikit-Learn, and HuggingFace, and I am passionate about applying artificial intelligence to transform business and financial processes.
 
 ---
 
@@ -61,10 +61,10 @@ Hello! I'm **Omar Baruch M. López** (OBaruch on GitHub), a Data and AI Speciali
 - **[Data Automation & Analytics](https://github.com/OBaruch/Data-Automation):** A project for centralizing and automating data flows in a production plant.
 - **[Vehicle Detection System](https://github.com/OBaruch/Vehicle-Detection):** Implementation of a vehicle detection model using multi-GPU clusters.
 - **[Staff Mobility Optimization](https://github.com/OBaruch/Staff-Mobility):** A tool to optimize staff mobility using bio-inspired algorithms.
-<!-- Additional projects can be added similarly, keeping descriptions generic for confidentiality -->
+
+> **Note:** Most of my professional projects are corporate and private, so they are not showcased on my public GitHub profile.
 
 ---
 
 ## ✍️ Developer Signature
-> "one step closer to conquer the world"
-
+> one step closer to conquer the world
