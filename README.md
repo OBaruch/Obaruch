@@ -1,66 +1,70 @@
-# ¡Hola, soy OBaruch! 👋
+# Hello, I'm OBaruch! 👋
 
-![Banner Personal](https://via.placeholder.com/1000x200.png?text=Bienvenido+a+mi+Perfil)
+![Banner](https://baruchlopez.com/path/to/your-banner.jpg)
 
 **OBaruch**  
-*X followers · Y following*  
-[Ubicación, País]  
-[LinkedIn](https://www.linkedin.com/in/baruchlopez/) • [Sitio Web](https://baruchlopez.com/)
+*ciudadno del mundo*  
+[LinkedIn](https://www.linkedin.com/in/baruchlopez/) • [Website](https://baruchlopez.com/)
 
 ---
 
-## 🏅 Logros y Reconocimientos
+## 🏅 Achievements
 - **Achievement:** YOLO  
 - **Achievement:** Pull Shark
 
 ---
 
-## 💫 Acerca de Mí
-¡Hola! Soy **OBaruch**, apasionado por el desarrollo y la tecnología. Actualmente me especializo en **JavaScript**, **React**, **HTML** y **CSS**, y siempre estoy en la búsqueda de nuevos retos y aprendizajes. Me encanta crear interfaces intuitivas y escribir código limpio y reutilizable. ¡Echa un vistazo a mis proyectos!
+## 💫 About Me
+Hello! I'm **Omar Baruch M. López** (OBaruch on GitHub), a Data and AI Specialist with extensive experience in developing Machine Learning models and automating processes. I have implemented solutions in corporate environments such as Bosch, optimizing data flows and analyzing large volumes of information. I specialize in technologies such as Alteryx, Oracle, SQL, Power BI, Python, TensorFlow, Keras, Scikit-Learn, and HuggingFace, and I am passionate about applying artificial intelligence to transform business and financial processes.
 
 ---
 
-## 🌐 Redes Sociales
+## 🌐 Social Networks
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/baruchlopez/)  
-[![Sitio Web](https://img.shields.io/badge/Web-000000?style=flat)](https://baruchlopez.com/)
+[![Website](https://img.shields.io/badge/Web-000000?style=flat)](https://baruchlopez.com/)
 
 ---
 
 ## 💻 Tech Stack
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-<!-- Agrega más badges o lenguajes según lo necesites -->
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-FF6C0D?style=flat&logo=matlab&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-00C4B4?style=flat&logo=huggingface&logoColor=white)
+![PowerBI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+<!-- Add more badges or languages as needed -->
 
 ---
 
-## 📊 Estadísticas GitHub
-> Si ves algún error en los gráficos, asegúrate de que tu nombre de usuario esté escrito correctamente y que el servicio esté operativo.
+## 📊 GitHub Stats
+> If you see any errors in the graphs, make sure your username is spelled correctly and that the service is operational.
 
-[![Estadísticas GitHub](https://github-readme-stats.vercel.app/api?username=OBaruch&show_icons=true&theme=radical)](https://github.com/OBaruch)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OBaruch&show_icons=true&theme=radical)](https://github.com/OBaruch)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OBaruch&layout=compact&theme=radical)](https://github.com/OBaruch)
 
 ---
 
-## 🏆 Trofeos GitHub
+## 🏆 GitHub Trophies
 [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=OBaruch&theme=onedark)](https://github.com/OBaruch)
 
 ---
 
-## ✍️ Cita Aleatoria de Desarrollador
-> "El único modo de hacer un gran trabajo es amar lo que haces." – Steve Jobs
+## 📁 Featured Projects
+- **[Data Automation & Analytics](https://github.com/OBaruch/Data-Automation):** A project for centralizing and automating data flows in a production plant.
+- **[Vehicle Detection System](https://github.com/OBaruch/Vehicle-Detection):** Implementation of a vehicle detection model using multi-GPU clusters.
+- **[Staff Mobility Optimization](https://github.com/OBaruch/Staff-Mobility):** A tool to optimize staff mobility using bio-inspired algorithms.
+<!-- Additional projects can be added similarly, keeping descriptions generic for confidentiality -->
 
 ---
 
-## 📁 Proyectos Destacados
-- **[Proyecto1](https://github.com/OBaruch/Proyecto1):** Breve descripción del proyecto.
-- **[Proyecto2](https://github.com/OBaruch/Proyecto2):** Breve descripción del proyecto.
-- **[Proyecto3](https://github.com/OBaruch/Proyecto3):** Breve descripción del proyecto.
+## ✍️ Developer Signature
+> "one step closer to conquer the world"
 
----
-
-## 🔥 Actividad Reciente
-- Contribuciones en: Proyecto1, Proyecto2, Proyecto3 y otros repositorios.
-
-*¡Bienvenido a mi mundo de código y tecnología!*
