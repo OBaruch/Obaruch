@@ -1,6 +1,6 @@
 # Hello, I'm OBaruch! 👋
 
-![Banner](https://via.placeholder.com/1000x200.png?text=Welcome+to+My+Profile)
+![Banner](https://dummyimage.com/1000x200/000/fff.png&text=Welcome+to+My+Profile)
 
 **OBaruch**  
 *ciudadno del mundo*  
@@ -68,3 +68,4 @@ Hello! I'm **Omar Baruch M. López** (OBaruch on GitHub), a Data and AI Speciali
 
 ## ✍️ Developer Signature
 > one step closer to conquer the world
+
