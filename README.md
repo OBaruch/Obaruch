@@ -3,7 +3,7 @@
 ![Banner](https://dummyimage.com/1000x200/000/fff.png&text=Welcome+to+My+Profile)
 
 **OBaruch**  
-*ciudadno del mundo*  
+*citizen of the world*  
 [LinkedIn](https://www.linkedin.com/in/baruchlopez/) • [Website](https://baruchlopez.com/)
 
 ---
