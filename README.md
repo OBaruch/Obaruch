@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Baruch López 👋</h1>
 
 <p align="center">
-  <b>AI Engineer II @ Bosch</b> · Applied AI · GenAI / LLMs · Computer Vision · Data &amp; BI Automation<br/>
+  <b>Advanced AI Engineer @ Bosch</b> · Applied AI · GenAI / LLMs · Computer Vision · Data &amp; BI Automation<br/>
   <i>Robotics Engineer (Hons.) · MBA candidate · Guadalajara, México</i>
 </p>
 
