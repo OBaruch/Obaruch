@@ -15,7 +15,7 @@
 
 ## 💫 About me
 
-I'm an **AI Engineer II at Bosch (Bosch Global Software Technologies)** with **4+ years building end-to-end AI and data solutions** — from data extraction and integration (SAP, data lakes, SQL) to machine learning models, LLM applications and BI dashboards, all the way to production deployment, documentation and user enablement.
+I'm an **Advanced AI Engineer at Bosch (Bosch Global Software Technologies)** with **4+ years building end-to-end AI and data solutions** — from data extraction and integration (SAP, data lakes, SQL) to machine learning models, LLM applications and BI dashboards, all the way to production deployment, documentation and user enablement.
 
 My work spans **generative AI / LLMs, computer vision, mathematical optimization, and data engineering / BI automation**. I care about **business impact with engineering rigor**: grounded and verifiable AI, data quality gates, and DataOps practices. I'm an **Ingeniero en Robótica** (Universidad de Guadalajara, with honors) and a current **MBA candidate**, moving toward **Enterprise Architecture (TOGAF)**.
 
